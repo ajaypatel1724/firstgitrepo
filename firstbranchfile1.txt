@@ -1,2 +1,2 @@
 #This is firstbranch txt file.
-#Conflicted lines define in master
+# Demonstrate Conflicted lines define in master
