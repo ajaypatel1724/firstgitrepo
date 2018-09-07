@@ -1,2 +1,2 @@
 #This is firstbranch txt file.
-#Conflicted lines define in master
+#Adding lines in secbranch to demonstrate conflict
