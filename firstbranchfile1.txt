@@ -1,3 +1,4 @@
 #This is firstbranch txt file.
 #Adding lines in secbranch to demonstrate conflict
 # Demonstrate Conflicted lines define in master
+# Add some lines in branch to raise pull request
